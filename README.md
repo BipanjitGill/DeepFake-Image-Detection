@@ -24,7 +24,9 @@ In response to the rising concerns surrounding the malicious use of generative A
 - Divided into two sub-modules:
     1. "Level 3-GANs": Creating 3-classes classifier using ResNET-50 as backbone for image encoding.
     2. "Level 3-DMs": Similarly creating 
+## Pipeline
 
+![App Screenshot](https://drive.google.com/file/d/1JghafLAkzn1omzVsunzSPXZ1OOgmMmAw/view?usp=drive_link)
 
 ## Results
 
