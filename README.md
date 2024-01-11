@@ -45,5 +45,5 @@ In response to the rising concerns surrounding the malicious use of generative A
 #### Level 3(Diffusion Model) :
 - Accuracy: 85.00%
 
-#### Level 3(Diffusion Model) :
+#### Level 3(GAN) :
 - Accuracy: 93.50%
