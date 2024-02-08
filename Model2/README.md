@@ -27,3 +27,18 @@
 
 
 ## Results
+- #### Decision Tree Classifier
+    - Accuracy: 0.7250
+    - Precision: 0.6945
+    - Recall: 0.8033
+    - F1 Score: 0.7450
+- #### Nearest Neighbours
+    - Accuracy: 0.8283
+    - Precision: 0.8031
+    - Recall: 0.8700
+    - F1 Score: 0.8352
+- #### Support Vector Classification
+    - Accuracy: 0.7150
+    - Precision: 0.6748
+    - Recall: 0.8300
+    - F1 Score: 0.7444
